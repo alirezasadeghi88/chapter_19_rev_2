@@ -1,6 +1,9 @@
 package homework1;
 
 public class Rational extends Number {
+    public Rational(int i, int i1) {
+    }
+
     @Override
     public int intValue() {
         return 0;
